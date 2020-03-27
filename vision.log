@@ -1,4 +1,4 @@
-This is LuaTeX, Version 1.10.0 (TeX Live 2019)  (format=lualatex 2020.3.2)  27 MAR 2020 01:10
+This is LuaTeX, Version 1.10.0 (TeX Live 2019)  (format=lualatex 2020.3.2)  27 MAR 2020 16:37
  restricted system commands enabled.
 **vision
 (./vision.tex
@@ -1263,12 +1263,6 @@ LaTeX Font Info:    Font shape `JY3/FOT-MatissePro-DB(0)/m/n_alt0' will be
 
 ] [2]
 [3]
-LaTeX Font Info:    Font shape `JT3/FOT-MatissePro-DB(0)/m/n' will be
-(Font)              scaled to size 7.20003pt on input line 299.
-LaTeX Font Info:    Font shape `JY3/FOT-MatissePro-DB(0)/m/n' will be
-(Font)              scaled to size 7.20003pt on input line 299.
-LaTeX Font Info:    Font shape `JY3/FOT-MatissePro-DB(0)/m/n_alt0' will be
-(Font)              scaled to size 7.20003pt on input line 1.
 LaTeX Font Info:    Font shape `JT3/FOT-RodinNTLGPro-DB(0)/m/n' will be
 (Font)              scaled to size 10.8pt on input line 302.
 LaTeX Font Info:    Font shape `JY3/FOT-RodinNTLGPro-DB(0)/m/n' will be
@@ -1281,6 +1275,18 @@ LaTeX Font Info:    Font shape `JY3/FOT-RodinNTLGPro-DB(0)/b/n' will be
 (Font)              scaled to size 10.8pt on input line 302.
 LaTeX Font Info:    Font shape `JY3/FOT-RodinNTLGPro-DB(0)/b/n_alt1' will be
 (Font)              scaled to size 10.8pt on input line 1.
+LaTeX Font Info:    Font shape `JT3/FOT-RodinNTLGPro-DB(0)/m/n' will be
+(Font)              scaled to size 8.09995pt on input line 311.
+LaTeX Font Info:    Font shape `JY3/FOT-RodinNTLGPro-DB(0)/m/n' will be
+(Font)              scaled to size 8.09995pt on input line 311.
+LaTeX Font Info:    Font shape `JY3/FOT-RodinNTLGPro-DB(0)/m/n_alt0' will be
+(Font)              scaled to size 8.09995pt on input line 1.
+LaTeX Font Info:    Font shape `JT3/FOT-RodinNTLGPro-DB(0)/b/n' will be
+(Font)              scaled to size 8.09995pt on input line 311.
+LaTeX Font Info:    Font shape `JY3/FOT-RodinNTLGPro-DB(0)/b/n' will be
+(Font)              scaled to size 8.09995pt on input line 311.
+LaTeX Font Info:    Font shape `JY3/FOT-RodinNTLGPro-DB(0)/b/n_alt1' will be
+(Font)              scaled to size 8.09995pt on input line 1.
  [4
 
 
@@ -1295,21 +1301,21 @@ Package rerunfilecheck Info: File `vision.out' has not changed.
 )
 
 Here is how much of LuaTeX's memory you used:
- 27707 strings out of 481351
+ 27709 strings out of 481351
  382010,953878 words of node,token memory allocated
- 7476 words of node memory still in use:
-   8 hlist, 1 vlist, 5 rule, 2 glue, 3 kern, 40 penalty, 2 glyph, 1183 attribute, 915 glue_spec, 67 attribute_list, 2 write, 10 user_defined nod
+ 7431 words of node memory still in use:
+   8 hlist, 1 vlist, 5 rule, 2 glue, 3 kern, 40 penalty, 2 glyph, 1183 attribute, 906 glue_spec, 67 attribute_list, 2 write, 10 user_defined nod
 es
-   avail lists: 1:39,2:113816,3:1979,4:645,5:731,6:118,7:7664,8:102,9:3852,10:32,11:2
- 43614 multiletter control sequences out of 65536+600000
- 108 fonts using 119792427 bytes
+   avail lists: 1:39,2:113816,3:1979,4:599,5:740,6:98,7:7664,8:82,9:3852,10:32,11:2
+ 43622 multiletter control sequences out of 65536+600000
+ 109 fonts using 122314371 bytes
  73i,8n,91p,1148b,995s stack positions out of 5000i,500n,10000p,200000b,100000s
 </Library/Fonts/FOT-MatissePro-EB.otf></Users/hitomisan/Library/Fonts/Exo2-Bold.ttf></Library/Fonts/FOT-RodinNTLGPro-EB.otf></Library/Fonts/FOT-
 MatissePro-DB.otf></Library/Fonts/FOT-RodinNTLGPro-DB.otf></Users/hitomisan/Library/Fonts/Exo2-Regular.ttf>
-Output written on vision.pdf (4 pages, 114301 bytes).
+Output written on vision.pdf (4 pages, 113392 bytes).
 
-PDF statistics: 149 PDF objects out of 1000 (max. 8388607)
- 123 compressed objects within 2 object streams
- 56 named destinations out of 1000 (max. 131072)
+PDF statistics: 139 PDF objects out of 1000 (max. 8388607)
+ 113 compressed objects within 2 object streams
+ 46 named destinations out of 1000 (max. 131072)
  80 words of extra memory for PDF output out of 10000 (max. 100000000)
 

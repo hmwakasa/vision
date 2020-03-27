@@ -296,7 +296,7 @@ Aはこのカードの名称である「符ノ壱``B"」のBに等しい。
 このカードのプレイが無効になった場合、この効果は無効になる。
 
 \clearpage
-\appendix\onecolumn\footnotesize
+\appendix\onecolumn\small
 \section{付録: ターン進行の流れ}
 \subsection{ターン開始時}
 \begin{enumerate}
@@ -307,8 +307,8 @@ Aはこのカードの名称である「符ノ壱``B"」のBに等しい。
 	\item アクティブフェイズへ移行する。
 \end{enumerate}
 \subsection{アクティブフェイズ}
-\begin{enumerate}
-	\item 開始時
+\begin{description}
+	\item[開始時]
 	\begin{enumerate}
 		\item ターンプレイヤーの場のカード全てアクティブ状態にする。
 			これはアクティブフェイズの規定の効果である。
@@ -316,16 +316,16 @@ Aはこのカードの名称である「符ノ壱``B"」のBに等しい。
 			この時、アクティブフェイズ開始時が適用のタイミングである「自動γ」も解決する。
 		\item ターンプレイヤーが優先権を得る。
 	\end{enumerate}
-	\item 終了時
+	\item[終了時]
 	\begin{enumerate}
 		\item アクティブフェイズ終了時がタイミングの効果を解決する。
 			この時、アクティブフェイズ終了時が適用タイミングである「自動γ」も解決する。
 		\item メンテナンスフェイズに移行する。
 	\end{enumerate}
-\end{enumerate}
+\end{description}
 \subsection{メンテナンスフェイズ}
-\begin{enumerate}
-	\item 開始時
+\begin{description}
+	\item[開始時]
 		\begin{enumerate}
 			\item ターンプレイヤーの場に「維持コスト」を持つカードが存在する場合、
 				「維持コスト」の効果を解決する。
@@ -334,16 +334,16 @@ Aはこのカードの名称である「符ノ壱``B"」のBに等しい。
 				この時、メンテナンスフェイズ開始時が適用のタイミングである「自動γ」も解決する。
 			\item ターンプレイヤーが優先権を得る。
 		\end{enumerate}
-	\item 終了時
+	\item[終了時]
 		\begin{enumerate}
 			\item メンテナンスフェイズ終了時がタイミングの効果を解決する。
 				この時、メンテナンスフェイズ終了時が適用タイミングである「自動γ」も解決する。
 			\item ドローフェイズへ移行する。
 		\end{enumerate}
-\end{enumerate}
+\end{description}
 \subsection{ドローフェイズ}
-\begin{enumerate}
-	\item 開始時
+\begin{description}
+	\item[開始時]
 		\begin{enumerate}
 			\item ターンプレイヤーは 1 ドローする。
 				これはドローフェイズの規定の効果である。
@@ -351,31 +351,31 @@ Aはこのカードの名称である「符ノ壱``B"」のBに等しい。
 				この時、ドローフェイズ開始時が適用のタイミングである「自動γ」も解決する。
 			\item ターンプレイヤーが優先権を得る。
 		\end{enumerate}
-	\item 終了時
+	\item[終了時]
 		\begin{enumerate}
 			\item ドローフェイズ終了時がタイミングの効果を解決する。
 				この時、ドローフェイズ終了時が適用タイミングである「自動γ」も解決する。
 			\item メインフェイズへ移行する。
 		\end{enumerate}
-\end{enumerate}
+\end{description}
 \subsection{メインフェイズ}
-\begin{enumerate}
-	\item 開始時
+\begin{description}
+	\item[開始時]
 		\begin{enumerate}
 			\item メインフェイズ開始時がタイミングの効果を解決する。
 				この時、メインフェイズ開始時が適用のタイミングである「自動γ」も解決する。
 			\item ターンプレイヤーが優先権を得る。
 		\end{enumerate}
-	\item 終了時
+	\item[終了時]
 		\begin{enumerate}
 			\item メインフェイズ終了時がタイミングの効果を解決する。
 				この時、メインフェイズ終了時が適用タイミングである「自動γ」も解決する。
 			\item ディスカードフェイズへ移行する。
 		\end{enumerate}
-\end{enumerate}
+\end{description}
 \subsection{ディスカードフェイズ}
-\begin{enumerate}
-	\item 開始時
+\begin{description}
+	\item[開始時]
 		\begin{enumerate}
 			\item ターンプレイヤーの手札が上限枚数を超えていた場合、
 				上限枚数になるように手札を選んで破棄する。
@@ -384,13 +384,13 @@ Aはこのカードの名称である「符ノ壱``B"」のBに等しい。
 				この時、ディスカードフェイズ開始時が適用のタイミングである「自動γ」も解決する。
 			\item ターンプレイヤーが優先権を得る。
 		\end{enumerate}
-	\item 終了時
+	\item[終了時]
 		\begin{enumerate}
 			\item ディスカードフェイズ終了時がタイミングの効果を解決する。
 				この時、ディスカードフェイズ終了時が適用タイミングである「自動γ」も解決する。
 			\item ターン終了時の処理へ移行する。
 		\end{enumerate}
-\end{enumerate}
+\end{description}
 \subsection{ターン終了時}
 \begin{enumerate}
 	\item 全てのキャラクターに蓄積されているダメージをリセットする。
