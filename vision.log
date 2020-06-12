@@ -1,4 +1,4 @@
-This is LuaTeX, Version 1.10.0 (TeX Live 2019)  (format=lualatex 2020.3.2)  27 MAR 2020 16:37
+This is LuaTeX, Version 1.10.0 (TeX Live 2019)  (format=lualatex 2020.3.2)  31 MAR 2020 19:25
  restricted system commands enabled.
 **vision
 (./vision.tex
@@ -1088,36 +1088,36 @@ LaTeX Font Info:    Overwriting math alphabet `\mathgt' in version `bold'
 (./vision.aux)
 \openout1 = vision.aux
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 93.
-LaTeX Font Info:    ... okay on input line 93.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 93.
-LaTeX Font Info:    ... okay on input line 93.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 93.
-LaTeX Font Info:    ... okay on input line 93.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 93.
-LaTeX Font Info:    ... okay on input line 93.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 93.
-LaTeX Font Info:    Trying loading font information for TS1+cmr on input line 93.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 94.
+LaTeX Font Info:    ... okay on input line 94.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 94.
+LaTeX Font Info:    ... okay on input line 94.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 94.
+LaTeX Font Info:    ... okay on input line 94.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 94.
+LaTeX Font Info:    ... okay on input line 94.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 94.
+LaTeX Font Info:    Trying loading font information for TS1+cmr on input line 94.
  (/usr/local/texlive/2019/texmf-dist/tex/latex/base/ts1cmr.fd
 File: ts1cmr.fd 2019/12/16 v2.5j Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 93.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 93.
-LaTeX Font Info:    ... okay on input line 93.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 93.
-LaTeX Font Info:    ... okay on input line 93.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 93.
-LaTeX Font Info:    ... okay on input line 93.
-LaTeX Font Info:    Checking defaults for JY3/mc/m/n on input line 93.
-LaTeX Font Info:    ... okay on input line 93.
-LaTeX Font Info:    Checking defaults for JT3/mc/m/n on input line 93.
-LaTeX Font Info:    ... okay on input line 93.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 93.
-LaTeX Font Info:    ... okay on input line 93.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 93.
-LaTeX Font Info:    ... okay on input line 93.
+LaTeX Font Info:    ... okay on input line 94.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 94.
+LaTeX Font Info:    ... okay on input line 94.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 94.
+LaTeX Font Info:    ... okay on input line 94.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 94.
+LaTeX Font Info:    ... okay on input line 94.
+LaTeX Font Info:    Checking defaults for JY3/mc/m/n on input line 94.
+LaTeX Font Info:    ... okay on input line 94.
+LaTeX Font Info:    Checking defaults for JT3/mc/m/n on input line 94.
+LaTeX Font Info:    ... okay on input line 94.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 94.
+LaTeX Font Info:    ... okay on input line 94.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 94.
+LaTeX Font Info:    ... okay on input line 94.
  ABD: EverySelectfont initializing macros
-LaTeX Info: Redefining \selectfont on input line 93.
+LaTeX Info: Redefining \selectfont on input line 94.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: luatex
@@ -1173,7 +1173,7 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 48
 (/usr/local/texlive/2019/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 ))
-Package hyperref Info: Link coloring OFF on input line 93.
+Package hyperref Info: Link coloring OFF on input line 94.
  (/usr/local/texlive/2019/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2019/09/16 v2.46 Cross-referencing by name of section
 (/usr/local/texlive/2019/texmf-dist/tex/latex/refcount/refcount.sty
@@ -1184,9 +1184,9 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
 \c@section@level=\count324
 )
-LaTeX Info: Redefining \ref on input line 93.
-LaTeX Info: Redefining \pageref on input line 93.
-LaTeX Info: Redefining \nameref on input line 93.
+LaTeX Info: Redefining \ref on input line 94.
+LaTeX Info: Redefining \pageref on input line 94.
+LaTeX Info: Redefining \nameref on input line 94.
  (./vision.out) (./vision.out)
 \@outlinefile=\write6
 
@@ -1194,125 +1194,153 @@ LaTeX Info: Redefining \nameref on input line 93.
 
 ABD: EveryShipout initializing macros
 LaTeX Font Info:    Font shape `JT3/FOT-MatissePro-DB(0)/m/n' will be
-(Font)              scaled to size 15.3pt on input line 95.
+(Font)              scaled to size 15.3pt on input line 96.
 LaTeX Font Info:    Font shape `JY3/FOT-MatissePro-DB(0)/m/n' will be
-(Font)              scaled to size 15.3pt on input line 95.
+(Font)              scaled to size 15.3pt on input line 96.
 LaTeX Font Info:    Font shape `JY3/FOT-MatissePro-DB(0)/m/n_alt0' will be
 (Font)              scaled to size 15.3pt on input line 1.
 LaTeX Font Info:    Font shape `JT3/FOT-MatissePro-DB(0)/m/n' will be
-(Font)              scaled to size 10.8pt on input line 95.
+(Font)              scaled to size 10.8pt on input line 96.
 LaTeX Font Info:    Font shape `JY3/FOT-MatissePro-DB(0)/m/n' will be
-(Font)              scaled to size 10.8pt on input line 95.
+(Font)              scaled to size 10.8pt on input line 96.
 LaTeX Font Info:    Font shape `JY3/FOT-MatissePro-DB(0)/m/n_alt0' will be
 (Font)              scaled to size 10.8pt on input line 1.
-LaTeX Font Info:    Calculating math sizes for size <10.8> on input line 95.
-LaTeX Font Info:    Trying loading font information for OT1+lmr on input line 95.
+LaTeX Font Info:    Calculating math sizes for size <10.8> on input line 96.
+LaTeX Font Info:    Trying loading font information for OT1+lmr on input line 96.
  (/usr/local/texlive/2019/texmf-dist/tex/latex/lm/ot1lmr.fd
 File: ot1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-LaTeX Font Info:    Trying loading font information for OML+lmm on input line 95.
+LaTeX Font Info:    Trying loading font information for OML+lmm on input line 96.
 
 (/usr/local/texlive/2019/texmf-dist/tex/latex/lm/omllmm.fd
 File: omllmm.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-LaTeX Font Info:    Trying loading font information for OMS+lmsy on input line 95.
+LaTeX Font Info:    Trying loading font information for OMS+lmsy on input line 96.
  (/usr/local/texlive/2019/texmf-dist/tex/latex/lm/omslmsy.fd
 File: omslmsy.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-LaTeX Font Info:    Trying loading font information for OMX+lmex on input line 95.
+LaTeX Font Info:    Trying loading font information for OMX+lmex on input line 96.
 
 (/usr/local/texlive/2019/texmf-dist/tex/latex/lm/omxlmex.fd
 File: omxlmex.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10.8> on input line 95.
+(Font)              <10.8> on input line 96.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <7.55997> on input line 95.
+(Font)              <7.55997> on input line 96.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <5.4> on input line 95.
+(Font)              <5.4> on input line 96.
 LaTeX Font Info:    Font shape `JY3/FOT-MatissePro-DB(0)/m/n' will be
-(Font)              scaled to size 7.55997pt on input line 95.
+(Font)              scaled to size 7.55997pt on input line 96.
 LaTeX Font Info:    Font shape `JY3/FOT-MatissePro-DB(0)/m/n' will be
-(Font)              scaled to size 5.4pt on input line 95.
+(Font)              scaled to size 5.4pt on input line 96.
 LaTeX Font Info:    Font shape `JT3/FOT-MatissePro-DB(0)/m/n' will be
-(Font)              scaled to size 12.6pt on input line 97.
+(Font)              scaled to size 12.6pt on input line 98.
 LaTeX Font Info:    Font shape `JY3/FOT-MatissePro-DB(0)/m/n' will be
-(Font)              scaled to size 12.6pt on input line 97.
+(Font)              scaled to size 12.6pt on input line 98.
 LaTeX Font Info:    Font shape `JY3/FOT-MatissePro-DB(0)/m/n_alt0' will be
 (Font)              scaled to size 12.6pt on input line 1.
 LaTeX Font Info:    Font shape `JT3/FOT-RodinNTLGPro-DB(0)/m/n' will be
-(Font)              scaled to size 12.6pt on input line 97.
+(Font)              scaled to size 12.6pt on input line 98.
 LaTeX Font Info:    Font shape `JY3/FOT-RodinNTLGPro-DB(0)/m/n' will be
-(Font)              scaled to size 12.6pt on input line 97.
+(Font)              scaled to size 12.6pt on input line 98.
 LaTeX Font Info:    Font shape `JY3/FOT-RodinNTLGPro-DB(0)/m/n_alt0' will be
 (Font)              scaled to size 12.6pt on input line 1.
 LaTeX Font Info:    Font shape `JT3/FOT-RodinNTLGPro-DB(0)/b/n' will be
-(Font)              scaled to size 12.6pt on input line 97.
+(Font)              scaled to size 12.6pt on input line 98.
 LaTeX Font Info:    Font shape `JY3/FOT-RodinNTLGPro-DB(0)/b/n' will be
-(Font)              scaled to size 12.6pt on input line 97.
+(Font)              scaled to size 12.6pt on input line 98.
 LaTeX Font Info:    Font shape `JY3/FOT-RodinNTLGPro-DB(0)/b/n_alt1' will be
 (Font)              scaled to size 12.6pt on input line 1.
 LaTeX Font Info:    Font shape `JT3/FOT-MatissePro-DB(0)/m/n' will be
-(Font)              scaled to size 8.09995pt on input line 150.
+(Font)              scaled to size 8.09995pt on input line 151.
 LaTeX Font Info:    Font shape `JY3/FOT-MatissePro-DB(0)/m/n' will be
-(Font)              scaled to size 8.09995pt on input line 150.
+(Font)              scaled to size 8.09995pt on input line 151.
 LaTeX Font Info:    Font shape `JY3/FOT-MatissePro-DB(0)/m/n_alt0' will be
 (Font)              scaled to size 8.09995pt on input line 1.
  [1{/usr/local/texlive/2019/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
 
 
-] [2]
+]
+
+Package fontspec Info: Could not resolve font "HackGen/BI" (it probably
+(fontspec)             doesn't exist).
+
+
+Package fontspec Info: Could not resolve font "HackGen/I" (it probably doesn't
+(fontspec)             exist).
+
+luaotfload | aux : font no 106 (nil) does not define feature smcp for script latn with language dflt
+luaotfload | aux : font no 107 (nil) does not define feature smcp for script latn with language dflt
+
+Package fontspec Info: Font family 'HackGen(0)' created for font 'HackGen'
+(fontspec)             with options [].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->"HackGen:mode=node;script=latn;language=dflt;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
+(fontspec)             - 'bold' (b/n) with NFSS spec.:
+(fontspec)             <->"HackGen/B:mode=node;script=latn;language=dflt;"
+(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.: 
+
+ [2
+Missing character: There is no ↴ (U+21B4) in font FOT-MatissePro-DB:mode=node;script=hani;language=dflt;-kern;;ltjaltfont0x7fa8cb81cea0;jfm=jl
+req!
+]
 [3]
 LaTeX Font Info:    Font shape `JT3/FOT-RodinNTLGPro-DB(0)/m/n' will be
-(Font)              scaled to size 10.8pt on input line 302.
+(Font)              scaled to size 10.8pt on input line 303.
 LaTeX Font Info:    Font shape `JY3/FOT-RodinNTLGPro-DB(0)/m/n' will be
-(Font)              scaled to size 10.8pt on input line 302.
+(Font)              scaled to size 10.8pt on input line 303.
 LaTeX Font Info:    Font shape `JY3/FOT-RodinNTLGPro-DB(0)/m/n_alt0' will be
 (Font)              scaled to size 10.8pt on input line 1.
 LaTeX Font Info:    Font shape `JT3/FOT-RodinNTLGPro-DB(0)/b/n' will be
-(Font)              scaled to size 10.8pt on input line 302.
+(Font)              scaled to size 10.8pt on input line 303.
 LaTeX Font Info:    Font shape `JY3/FOT-RodinNTLGPro-DB(0)/b/n' will be
-(Font)              scaled to size 10.8pt on input line 302.
+(Font)              scaled to size 10.8pt on input line 303.
 LaTeX Font Info:    Font shape `JY3/FOT-RodinNTLGPro-DB(0)/b/n_alt1' will be
 (Font)              scaled to size 10.8pt on input line 1.
 LaTeX Font Info:    Font shape `JT3/FOT-RodinNTLGPro-DB(0)/m/n' will be
-(Font)              scaled to size 8.09995pt on input line 311.
+(Font)              scaled to size 8.09995pt on input line 312.
 LaTeX Font Info:    Font shape `JY3/FOT-RodinNTLGPro-DB(0)/m/n' will be
-(Font)              scaled to size 8.09995pt on input line 311.
+(Font)              scaled to size 8.09995pt on input line 312.
 LaTeX Font Info:    Font shape `JY3/FOT-RodinNTLGPro-DB(0)/m/n_alt0' will be
 (Font)              scaled to size 8.09995pt on input line 1.
 LaTeX Font Info:    Font shape `JT3/FOT-RodinNTLGPro-DB(0)/b/n' will be
-(Font)              scaled to size 8.09995pt on input line 311.
+(Font)              scaled to size 8.09995pt on input line 312.
 LaTeX Font Info:    Font shape `JY3/FOT-RodinNTLGPro-DB(0)/b/n' will be
-(Font)              scaled to size 8.09995pt on input line 311.
+(Font)              scaled to size 8.09995pt on input line 312.
 LaTeX Font Info:    Font shape `JY3/FOT-RodinNTLGPro-DB(0)/b/n_alt1' will be
 (Font)              scaled to size 8.09995pt on input line 1.
  [4
 
 
 ]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 405.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 405.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 406.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 406.
  (./vision.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 405.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 405.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 406.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 406.
 Package rerunfilecheck Info: File `vision.out' has not changed.
 (rerunfilecheck)             Checksum: 66CD7DEA0A546E3AD2D79F0B6E5CAD4B;983.
 )
 
 Here is how much of LuaTeX's memory you used:
- 27709 strings out of 481351
- 382010,953878 words of node,token memory allocated
+ 27742 strings out of 481351
+ 382008,953878 words of node,token memory allocated
  7431 words of node memory still in use:
    8 hlist, 1 vlist, 5 rule, 2 glue, 3 kern, 40 penalty, 2 glyph, 1183 attribute, 906 glue_spec, 67 attribute_list, 2 write, 10 user_defined nod
 es
-   avail lists: 1:39,2:113816,3:1979,4:599,5:740,6:98,7:7664,8:82,9:3852,10:32,11:2
- 43622 multiletter control sequences out of 65536+600000
- 109 fonts using 122314371 bytes
+   avail lists: 1:39,2:113816,3:1979,4:599,5:740,6:98,7:7664,8:82,9:3848,10:32,11:2
+ 43632 multiletter control sequences out of 65536+600000
+ 116 fonts using 144361315 bytes
  73i,8n,91p,1148b,995s stack positions out of 5000i,500n,10000p,200000b,100000s
 </Library/Fonts/FOT-MatissePro-EB.otf></Users/hitomisan/Library/Fonts/Exo2-Bold.ttf></Library/Fonts/FOT-RodinNTLGPro-EB.otf></Library/Fonts/FOT-
 MatissePro-DB.otf></Library/Fonts/FOT-RodinNTLGPro-DB.otf></Users/hitomisan/Library/Fonts/Exo2-Regular.ttf>
-Output written on vision.pdf (4 pages, 113392 bytes).
+Output written on vision.pdf (4 pages, 113235 bytes).
 
 PDF statistics: 139 PDF objects out of 1000 (max. 8388607)
  113 compressed objects within 2 object streams
