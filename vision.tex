@@ -1,11 +1,22 @@
-% LuaLaTeX 文書
-\documentclass[fontsize=9pt,twocolumn,hanging_punctuation]{jlreq}
+% +++
+% latex="lualatex"
+% +++
+\documentclass[
+	fontsize=9pt,
+	twocolumn,
+	hanging_punctuation,
+	paper=a4paper,
+	gutter=15mm,
+	fore-edge=15mm,
+	head_space=15mm,
+	foot_space=15mm,
+]{jlreq}
 \usepackage[no-math,match,deluxe]{luatexja-preset}
 
-\usepackage[paper=a4paper,margin=15mm]{geometry}
+% \usepackage[paper=a4paper,margin=15mm]{geometry}
 
-\usepackage{textcomp}
-\usepackage{luatexja-otf}
+% \usepackage{textcomp}
+% \usepackage{luatexja-otf}
 
 \usepackage{graphicx,xcolor}
 \usepackage{hyperref}
@@ -84,7 +95,7 @@
 ]
 
 \setlength{\parindent}{0pt}
-\newcommand{\↴}{{\fontspec{HackGen}↴}}
+\newcommand{\↴}{{\jfontspec{nishiki-teki}↴}}
 
 \title{VISION 戦術・特殊効果表}
 \author{ひとみさん}
